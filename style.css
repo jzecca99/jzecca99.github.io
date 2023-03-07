@@ -1,0 +1,38 @@
+.random{
+color: red;
+font-family: Tahoma;
+
+}
+
+.Important{
+ text-align: center;
+ color: blueviolet;  
+ padding: 10px 5px 10px 5px;
+ border-style: dotted;
+ overflow: scroll;
+
+}
+
+.test{
+color: brown;
+}
+
+.hank{
+height: 200px;
+width: 250px;
+border-radius: 125px;
+float: right;
+}
+
+.background{
+background-image: url("https://media.istockphoto.com/id/183582878/photo/old-paper-textere.jpg?b=1&s=170667a&w=0&k=20&c=Cio1WlcZDsP7hCXwVmO-Kvp6woK7LBAWkTY5dqdWa3Y=");
+background-color: #cccccc
+}
+
+.Booton{
+    color: purple;
+}
+
+.hankie{
+    color: brown;
+}
